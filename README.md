@@ -39,13 +39,13 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 📅 Timeline
 
-> 🔒 Tournament Closed 🔒
+> 🔒 Tournament Closed 🔒 <br>
 > We are currently evaluating all submissions.
 
 | **Phase**                            | **Start**                     | **End**                       | **Status**  |
 | ------------------------------------ | ----------------------------- | ----------------------------- | ----------- |
 | Registration & Model Development     | July 16, 2025 @ 11:59 PM UTC  | August 4, 2025 @ 11:59 PM UTC | ✅ Closed    |
-| Submission Window (Model + Notebook) | August 4, 2025 @ 11:59 PM UTC | August 8, 2025 @ 11:59 PM UTC | 🟢 Open Now |
+| Submission Window (Model + Notebook) | August 4, 2025 @ 11:59 PM UTC | August 8, 2025 @ 11:59 PM UTC | ✅ Closed  |
 
 ---
 
