@@ -99,7 +99,8 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 * Dartmouth College
 * Gautam Buddha University
 * Georgia Institute of Technology
-* Indian Institute of Technology BHU Varanasi
+* Indian Institute of Technology BHU Varanasi (IIT BHU)
+Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar)
 * Indian Institute of Technology Roorkee
 * London School of Economics and Political Science (LSE)
 * Narsee Monjee Institute of Management Studies
