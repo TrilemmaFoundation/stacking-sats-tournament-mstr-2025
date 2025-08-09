@@ -39,7 +39,8 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ## 📅 Timeline
 
-> 🟢 **Submission Window Now Open** – Submit by **August 8, 2025 @ 11:59 PM UTC**
+> 🔒 Tournament Closed 🔒
+> We are currently evaluating all submissions.
 
 | **Phase**                            | **Start**                     | **End**                       | **Status**  |
 | ------------------------------------ | ----------------------------- | ----------------------------- | ----------- |
@@ -116,10 +117,7 @@ Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar)
 
 ---
 
-## 🚀 Submit Your Work
+## 🔒 **The tournament is now closed.**  
+Check this repo and our [Discord](https://discord.gg/9CrmawQVRZ) for tournament results — coming soon.  
 
-📤 **Submission Form Now Open** <br> 
-If you registered, submit your model + notebook by **August 8, 2025 @ 11:59 PM UTC**:
-👉 [**Submit Here**](https://docs.google.com/forms/d/e/1FAIpQLSeFuYGkvXI1WPvvDEhQNlKQKeHDrfbLtL5vbPJ8yFyp7wn1_A/viewform?usp=header)
-
-💬 **Join the [Discord](https://discord.gg/9CrmawQVRZ)** to ask questions, get support, and connect with other participants.
+If you missed this tournament, join our [Discord](https://discord.gg/9CrmawQVRZ) so you can participate in future ones.
