@@ -100,6 +100,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 * Dartmouth College
 * Gautam Buddha University
 * Georgia Institute of Technology
+* Indian Institute of Technology Bombay (IIT Bombay)
 * Indian Institute of Technology BHU Varanasi (IIT BHU)
 * Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar)
 * Indian Institute of Technology Roorkee
