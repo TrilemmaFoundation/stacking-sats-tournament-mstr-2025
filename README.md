@@ -123,7 +123,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 The Stacking Sats Tournament has officially concluded.  
 Congratulations to all the winners!
 
-<p align="center">
+<p align="left">
   <img src="./assets/Stacking Sats Tournament Youssef.png" alt="Winner Card 1" width="500"/><br/><br/>
   <img src="./assets/Stacking Sats Tournament Tam.png" alt="Winner Card 2" width="500"/><br/><br/>
   <img src="./assets/Stacking Sats Tournament Madhav.png" alt="Winner Card 3" width="500"/>
