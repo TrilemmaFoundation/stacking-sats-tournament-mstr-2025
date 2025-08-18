@@ -124,9 +124,9 @@ The Stacking Sats Tournament has officially concluded.
 Congratulations to all the winners!
 
 <p align="center">
-  <img src="./assets/Stacking Sats Tournament Youssef.png" alt="Winner Card 1" width="250"/>
-  <img src="./assets/Stacking Sats Tournament Tam.png" alt="Winner Card 2" width="250"/>
-  <img src="./assets/Stacking Sats Tournament Madhav.png" alt="Winner Card 3" width="250"/>
+  <img src="./assets/Stacking Sats Tournament Youssef.png" alt="Winner Card 1" width="500"/><br/><br/>
+  <img src="./assets/Stacking Sats Tournament Tam.png" alt="Winner Card 2" width="500"/><br/><br/>
+  <img src="./assets/Stacking Sats Tournament Madhav.png" alt="Winner Card 3" width="500"/>
 </p>
 
 For full details, check out the official [LinkedIn announcement](https://www.linkedin.com/posts/trilemma-foundation_trilemmafoundation-stackingsats-bitcoin-activity-7363253397778546688-x-T-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADQFpH8BR9a1EzxzZxHP_KzeiQkSrwS56YY).
