@@ -40,7 +40,6 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 ## 📅 Timeline
 
 > 🔒 Tournament Closed 🔒 <br>
-> We are currently evaluating all submissions.
 
 | **Phase**                            | **Start**                     | **End**                       | **Status**  |
 | ------------------------------------ | ----------------------------- | ----------------------------- | ----------- |
@@ -118,7 +117,7 @@ This repo is your complete guide—goals, timelines, tutorials, and submission i
 
 ---
 
-## 🏆 Winners Announced!
+## 🏆 Winners
 
 The Stacking Sats Tournament has officially concluded.  
 Congratulations to all the winners!
